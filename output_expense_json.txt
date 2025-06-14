@@ -1,0 +1,14 @@
+{"Age":"25","Income":"40000","Expense":"20000"}
+{"Age":"26","Income":"35000","Expense":"18000"}
+{"Age":"27","Income":"90000","Expense":"60000"}
+{"Age":"32","Income":"70000","Expense":"28000"}
+{"Age":"31","Income":"75000","Expense":"32000"}
+{"Age":"30","Income":"71000","Expense":"30000"}
+{"Age":"47","Income":"","Expense":"25000"}
+{"Age":"125","Income":"76000","Expense":"30000"}
+{"Age":"49","Income":"56000","Expense":"16000"}
+{"Age":"55","Income":"67000","Expense":"20000"}
+{"Age":"54","Income":"80000","Expense":"24000"}
+{"Age":"56","Income":"86000","Expense":"25000"}
+{"Age":"60","Income":"56000","Expense":"15000"}
+{"Age":"62","Income":"43000","Expense":"11000"}
